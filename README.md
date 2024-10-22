@@ -1,5 +1,6 @@
 # Yolov7-hv
 The main functions of this project:
+
 1.The detection, segmentation and key points detection of cucumber fruit object.
 
 2.The pose estimation of cucumber fruit object.
